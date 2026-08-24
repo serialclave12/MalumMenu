@@ -70,7 +70,7 @@ MalumMenu's ESP cheats are completely client-side, and thus undetectable by anti
 | Cheat | Description | Type | Default |
 |------------|-------------|------|----|
 | Set Fake Role | Change your current role to any role you want<br>(Shapeshifter & Phantom are disabled by default to prevent getting detected by the anticheat) | Menu |
-| Set Fake Role | change if u ded or alive | Menu |
+| Set Fake alive | change if u ded or alive | Menu |
 
 
 #### Impostor
