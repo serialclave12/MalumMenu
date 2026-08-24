@@ -19,6 +19,9 @@
 
 <p align="center">
   <b> malummenu but all pull requests are added <br>
-      credits to scp22thj (unban me from dc please), astra1dev and elfrask.</b>
+      credits to scp22thj (unban me from dc please), astra1dev and elfrask.
+      <br> 
+      <br>
+       version 3.3.0</b>
 </p>
 
